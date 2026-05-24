@@ -93,19 +93,38 @@ Saya telah mengerjakan berbagai proyek menarik. Berikut adalah beberapa yang ter
 
 ---
 
-## 📊 Statistik GitHub
+### 📊 Statistik GitHub
 
-Lihat seberapa aktif saya di GitHub!
+<div align="center">
+  <p>Lihat seberapa aktif saya di GitHub!</p>
+  
+  <table border="0" cellspacing="0" cellpadding="5">
+    <tr>
+      <td align="center" valign="middle" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=Mblakting&show_icons=true&theme=tokyonight&disable_animations=true" alt="Mblakting's GitHub Stats" height="165" />
+      </td>
+      <td align="center" valign="middle" width="50%">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mblakting&theme=tokyonight" alt="Mblakting's GitHub Streak" height="165" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" valign="middle" colspan="2">
+        <br />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mblakting&layout=compact&theme=tokyonight&disable_animations=true" alt="Mblakting's Top Languages" height="160" />
+      </td>
+    </tr>
+  </table>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mblakting&show_icons=true&theme=tokyonight" alt="Mblakting's GitHub Stats" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mblakting&theme=tokyonight" alt="Mblakting's GitHub Streak" height="150" />
-</p>
+  <br />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mblakting&layout=compact&theme=tokyonight" alt="Mblakting's Top Languages" height="150" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Mblakting&theme=tokyonight&no-frame=true" alt="Mblakting's GitHub Trophies" />
-</p>
+  <table border="0" cellspacing="0" cellpadding="0" width="100%">
+    <tr>
+      <td align="center">
+        <img src="https://github-profile-trophy.vercel.app/?username=Mblakting&theme=tokyonight&no-frame=true&column=8" alt="Mblakting's GitHub Trophies" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 

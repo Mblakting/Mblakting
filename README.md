@@ -53,12 +53,12 @@
 ### 📊 Statistik GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mblakting&show_icons=true&theme=tokyonight" alt="Mblakting's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mblakting&theme=tokyonight" alt="Mblakting's GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mblakting&show_icons=true&theme=tokyonight&v=1" alt="Mblakting's GitHub Stats" height="195" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mblakting&theme=tokyonight" alt="Mblakting's GitHub Streak" height="195" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mblakting&layout=compact&theme=tokyonight" alt="Top Languages" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mblakting&layout=compact&theme=tokyonight&v=1" alt="Top Languages" />
 </p>
 
 ---
@@ -66,4 +66,4 @@
 ### 📫 Mari Terhubung!
 Jika ingin berdiskusi seputar teknologi, pemrograman, atau mencari rekan untuk membangun aplikasi, jangan ragu untuk menyapa:
 - 💼 **LinkedIn:** [Kunjungi Profil LinkedIn Saya](https://www.linkedin.com/in/rahmad-tegar-yurianto)
-- 📧 **Email:** *(Ketik alamat email kamu di sini)*
+- 📧 **Email:** *(rahmadtegar229@gmail.com)*
